@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, TextInput, View, TouchableOpacity, ToastAndroid } from 'react-native';
-import { Picker } from '@react-native-picker/picker'; // Import Picker from the new package
+import { Picker } from '@react-native-picker/picker';
 import { useState } from 'react';
 
 export default function App() {
